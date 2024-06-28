@@ -1,6 +1,7 @@
 // https://g8gyw.github.io/
 //
-// Copyright (c) 2021 Mike G8GYW
+// Copyright (c) 2021 Mike G8GYW 
+// update by F4GOH 2024
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
