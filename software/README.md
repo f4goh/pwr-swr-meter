@@ -11,6 +11,7 @@ use this fuse configuration
 if you want to update your own software :
 
 - copy hardware folder into your own Documents/Arduino like C:\Users\anthony\Documents\Arduino
+- No need to add MegunoLINK library, Filter.h is included
 - Modify QRP_POWER_METER.ino main code
 - Select breadBoard-avr in tools menu
 - and upload
