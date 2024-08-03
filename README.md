@@ -19,7 +19,14 @@
 
 ![swr2](images/swr2.jpg "Main board2")
 
+![swrback](images/swr_back.jpg "Main board3")
+
+
 ## Display :
+
+![display](images/intro.jpg "display")
+
+![display](images/init.jpg "display")
 
 ![display](images/pwr_swr.jpg "display")
 
