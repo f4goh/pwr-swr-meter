@@ -9,6 +9,7 @@ Use [AVRDUDESS](https://github.com/ZakKemble/AVRDUDESS) with an Arduino UNO to p
 ![isp2](images/Arduino_UNO.png "isp2")
 
 ## Connect the Arduino UNO with the SWR power meter
+## No battery is connected during this procedure !
 
 ![isp3](images/Arduino_ISP_wiring.png "isp3")
 
